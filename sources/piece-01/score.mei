@@ -83,8 +83,8 @@
             <zone xml:id="zone-3-8" type="measure" n="31" ulx="755" uly="1611" lrx="1142" lry="3301"/>
             <zone xml:id="zone-3-9" type="measure" n="32" ulx="1077" uly="1615" lrx="1462" lry="3300"/>
             <zone xml:id="zone-3-10" type="measure" n="33" ulx="1406" uly="1607" lrx="1739" lry="3296"/>
-            <zone xml:id="zone-3-11" type="measure" n="34" ulx="1677" uly="1619" lrx="2051" lry="3305"/>
-            <zone xml:id="zone-3-12" type="measure" n="35" ulx="1990" uly="1615" lrx="2372" lry="3305"/>
+            <zone xml:id="zone-3-11" type="measure" n="34" ulx="1675" uly="1606" lrx="2049" lry="3305"/>
+            <zone xml:id="zone-3-12" type="measure" n="35" ulx="1990" uly="1613" lrx="2372" lry="3303"/>
          </surface>
       </facsimile>
       <body xml:id="body-1">
