@@ -1,2 +1,3 @@
 comment_id,task_id,subtask_id,kind,page,measure_start,measure_end,author_id,timestamp,resolved,parent_id,body,fragment
 83f92cf9,,,comment,,,,297915765,2026-11-06T13:03:03Z,,,verify-lets-encode skill test 2026-11-06,
+,,,comment,,,,,,,,Test comment for the restructured coordinator (441f1f9).,
